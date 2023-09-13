@@ -5,7 +5,7 @@
 
 
 - ⚡ I’m currently learning lots of technologies
-- 🥅 Working on projects using ReactJS and ExpressJS, but also dabbling in all sorts of things.
+- 🥅 Working on projects using ReactJS and NextJS, but also dabbling in all sorts of things.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
 - 😻 Currently Working on Multiple Freelance Projects
 
