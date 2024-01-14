@@ -4,13 +4,15 @@
 ## I'm a developer, artist, gamer, and sometimes a writer.
 
 
-- ⚡ I’m currently learning lots of technologies
-- 🥅 Working on projects using ReactJS and NextJS, but also dabbling in all sorts of things.
+- ⚡ I’m currently learning NextJS and more
+- 🥅 Working on projects using ReactJS and NextJS, but also dabbling in other technologies.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
-- 😻 Currently Working on Multiple Freelance Projects
+- 😻 Currently Working on A large scale Accounting and real estate development platform with NextJS
 
 ### Connect with me:
 
+
+[![website](https://site-assets.fontawesome.com/releases/v5.15.4/svgs/solid/globe.svg)](https://joeddenn.tech)
 
 [![website](./img/twitter-light.svg)](https://twitter.com/JoeDDennz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JoeDDennz#gh-dark-mode-only)
