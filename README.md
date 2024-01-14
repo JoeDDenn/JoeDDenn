@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-[![website](https://site-assets.fontawesome.com/releases/v5.15.4/svgs/solid/globe.svg)](https://joeddenn.tech)
+[<img align="left" alt="website" width="26px" src="https://site-assets.fontawesome.com/releases/v5.15.4/svgs/solid/globe.svg" style="padding-right:10px;" />][Portfolio]
 
 [![website](./img/twitter-light.svg)](https://twitter.com/JoeDDennz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JoeDDennz#gh-dark-mode-only)
@@ -51,4 +51,4 @@
 [twitter]: https://twitter.com/JoeDDennz
 [linkedin]: https://www.linkedin.com/in/yousef-orabi-80611b196/
 [ExoTask]: https://github.com/JoeDDenn/ExoTask
-
+[Portfolio]: https://joeddenn.tech
