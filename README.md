@@ -4,10 +4,10 @@
 ## I'm a developer, artist, gamer, and sometimes a writer.
 
 
-- ⚡ I’m currently learning NextJS and more
+- ⚡ I’m currently learning NestJS, NextJS and more
+- 😻 Currently Working on Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, and Docker.
 - 🥅 Working on projects using ReactJS and NextJS, but also dabbling in other technologies.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
-- 😻 Currently Working on A large scale Accounting and real estate development platform with NextJS
 
 ### Connect with me:
 
