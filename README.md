@@ -64,8 +64,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JoeDDenn's GitHub Stats" src="https://github-readme-stats-gules-chi-20.vercel.app/api?username=joeddenn&show_icons=true&hide_border=true&count_private=true&theme=Gradient" />
-  <img align="left" alt="JoeDDenn's Top Languages" src="https://github-readme-stats-gules-chi-20.vercel.app/api/top-langs?username=joeddenn&layout=compact&langs_count=8&theme=Gradient" />
+  <img align="left" alt="JoeDDenn's GitHub Stats" src="https://github-readme-stats-gules-chi-20.vercel.app/api?username=joeddenn&show_icons=true&hide_border=true&count_private=true&theme=gradient" />
+  <img align="left" alt="JoeDDenn's Top Languages" src="https://github-readme-stats-gules-chi-20.vercel.app/api/top-langs?username=joeddenn&layout=compact&langs_count=8&theme=gradient" />
 
 </details>
 
