@@ -73,5 +73,5 @@
 [linkedin]: https://www.linkedin.com/in/yousef-orabi-80611b196/
 [ExoTask]: https://github.com/JoeDDenn/ExoTask
 [Portfolio]: https://joeddenn.tech
-[SmoothERP}: https://smootherp.com
+[SmoothERP]: https://smootherp.com
 
