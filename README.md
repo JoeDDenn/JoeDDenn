@@ -5,7 +5,7 @@
 
 
 - ⚡ I’m currently learning NestJS, NextJS and more
-- 😻 Currently Working on [SmoothERP] Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, and Docker.
+- 😻 Currently Working on [SmoothERP] Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, and Docker; at [Fivem-Tech]
 - 🥅 Working on projects using ReactJS and NextJS, but also dabbling in other technologies.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
 
@@ -74,4 +74,5 @@
 [ExoTask]: https://github.com/JoeDDenn/ExoTask
 [Portfolio]: https://joeddenn.tech
 [SmoothERP]: https://smootherp.com
+[Fivem-Tech]: https://5m-tech.com/
 
