@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JoeDDenn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoeDDenn&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
+  <img align="left" alt="JoeDDenn's GitHub Stats" src="https://github-readme-stats-gules-chi-20.vercel.app/api?username=joeddenn&show_icons=true&hide_border=true&count_private=true&theme=synthwave" />
 
 </details>
 
