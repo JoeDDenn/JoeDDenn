@@ -5,7 +5,7 @@
 
 
 - ⚡ I’m currently using NestJS, NextJS, Docker, AWS, Prisma ORM and more
-- 😻 Currently Working on [SmoothERP] Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, and Docker; at [Fivem-Tech]
+- 😻 Currently Working on [SmoothERP] a Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, AWS, and Docker; at [Fivem-Tech]
 - 🥅 Working on projects using NestJS, ReactJS and NextJS, but also dabbling in other technologies.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
 
@@ -30,7 +30,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/amazon_aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS](https://img.shields.io/badge/amazon_aws-FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=black)
+![RDS](https://img.shields.io/badge/amazon_rds-FF9900.svg?style=for-the-badge&logo=amazonrds&logoColor=black)
+![Route 53](https://img.shields.io/badge/amazon_route_53-FF9900.svg?style=for-the-badge&logo=amazonroute53&logoColor=black)
 ![EC2](https://img.shields.io/badge/amazon_ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
 ![LINUX](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![LINUX CONTAINERS](https://img.shields.io/badge/linux_containers-333333.svg?style=for-the-badge&logo=linuxcontainers&logoColor=white)
@@ -73,7 +75,7 @@
 [twitter]: https://twitter.com/JoeDDennz
 [linkedin]: https://www.linkedin.com/in/yousef-orabi-80611b196/
 [ExoTask]: https://github.com/JoeDDenn/ExoTask
-[Portfolio]: https://joeddenn.tech
+[Portfolio]: https://joeddenn.tech](https://joeddenn-portfolio-joeddenns-projects.vercel.app/
 [SmoothERP]: https://smootherp.com
 [Fivem-Tech]: https://5m-tech.com/
 
