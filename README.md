@@ -4,7 +4,7 @@
 ## I'm a developer, artist, gamer, and sometimes a writer.
 
 
-- ⚡ I’m currently learning NestJS, NextJS and more
+- ⚡ I’m currently using NestJS, NextJS, Docker, AWS, Prisma ORM and more
 - 😻 Currently Working on [SmoothERP] Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, and Docker; at [Fivem-Tech]
 - 🥅 Working on projects using NestJS, ReactJS and NextJS, but also dabbling in other technologies.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
