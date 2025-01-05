@@ -13,7 +13,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="website" width="26px" src="https://site-assets.fontawesome.com/releases/v5.15.4/svgs/solid/globe.svg" style="padding-right:10px;" />][Portfolio]
+<!-- [<img align="left" alt="website" width="26px" src="https://site-assets.fontawesome.com/releases/v5.15.4/svgs/solid/globe.svg" style="padding-right:10px;" />][Portfolio] -->
 
 [![website](./img/twitter-light.svg)](https://twitter.com/JoeDDennz#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/JoeDDennz#gh-dark-mode-only)
