@@ -5,7 +5,7 @@
 
 
 - ⚡ I’m currently using NestJS, NextJS, Docker, AWS, Prisma ORM and more
-- 😻 Currently Working on OkiDooki a mortgae broker platform
+- 😻 Currently Working as the CTO at [OkiDooki] a mortgae brokerage platform
 - 👋 Previously worked on [SmoothERP] a Multi-tenant SaaS ERP solution using NestJS, NextJS, PrismaORM, AWS, and Docker; at [Fivem-Tech]
 - 🥅 Working on projects using NestJS, ReactJS and NextJS, but also dabbling in other technologies.
 - ❤  I enjoy gaming, exploring tech, listening to music, and once in a blue moon maybe i'll do some art.
@@ -79,4 +79,5 @@
 [Portfolio]: https://joeddenn.tech](https://joeddenn-portfolio-joeddenns-projects.vercel.app/
 [SmoothERP]: https://smootherp.com
 [Fivem-Tech]: https://5m-tech.com/
+[OkiDooki]: https://okidooki.com/
 
